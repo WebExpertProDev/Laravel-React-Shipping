@@ -1,8 +1,15 @@
-# Created by .ignore support plugin (hsz.mobi)
-.git/
+.vagrant/
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
+/public/css/
+/public/js/
+/public/fonts/
+/packages
+/storage/oauth-private.key
+/storage/oauth-public.key
 .idea/
-yarn.lock
-node_modules/
-/nbproject/private/
-build/
-build/*
+.DS_Store
+.phpunit.result.cache
+docker/mysql/
